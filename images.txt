@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 ystyle/kas
 hectorqin/reader:latest
+cloudreve/cloudreve:latest
