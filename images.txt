@@ -4,3 +4,4 @@ python:alpine3.19
 ystyle/kas
 hectorqin/reader:latest
 cloudreve/cloudreve:latest
+deluan/navidrome:latest
