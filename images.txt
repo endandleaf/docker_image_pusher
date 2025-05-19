@@ -5,4 +5,3 @@ yisier1/nps
 yisier1/npc
 stilleshan/frpc
 stilleshan/frps
-еmqx/emqx
