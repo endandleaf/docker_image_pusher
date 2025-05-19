@@ -1,3 +1,4 @@
 bitnami/java
 hectorqin/reader
 ystyle/kas
+sos-server-x86:latest
