@@ -6,4 +6,4 @@ yisier1/npc
 stilleshan/frpc
 stilleshan/frps
 cmliu/webssh:latest
-
+chaoszhu/easynode
