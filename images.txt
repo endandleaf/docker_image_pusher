@@ -8,3 +8,4 @@ stilleshan/frps
 cmliu/webssh:latest
 chaoszhu/easynode
 linmax/read
+xream/sub-store
